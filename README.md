@@ -26,7 +26,7 @@ The platform focuses on:
 
 ## Architecture Overview
 
-![Dynamic Ad Insertion Architecture](./assets/architecture.png)
+![Dynamic Ad Insertion Architecture](./assets/DAI-architecture.png)
 
 
 The platform follows a distributed architecture where each component is responsible for a specific processing stage.
